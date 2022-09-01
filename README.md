@@ -2,7 +2,7 @@
 ### 🚀 Sobre mim
 Eu sou um administrador em transição de carreira e estou cursando Certified Tech Developer na Digital House.
 Vou aprendendo e postando as coisas aqui enquanto busco minha primeira oportunidade na carreira DEV.
-A propósito, tô me apaixonando por JAVA☕, mais do que achei que iria
+A propósito, tô me apaixonando por JAVA☕, mais do que achei que iria.
 
 
 
