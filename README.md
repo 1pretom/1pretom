@@ -1,4 +1,9 @@
-### Olá você! Eu sou o Washington Conceição, mas pode chamar de Wash 😁
+## Olá você! Eu sou o Washington Conceição, mas pode chamar de Wash 😁
+### 🚀 Sobre mim
+Eu sou um administrador em transição de carreira e estou cursando Certified Tech Developer na Digital House.
+Vou aprendendo e postando as coisas aqui enquanto busco minha primeira oportunidade na carreira DEV.
+A propósito, tô me apaixonando por JAVA☕, mais do que achei que iria
+
 
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:washingtonldamacenac@gmail.com?Subject=Ol%E1%20Washington%2C%20vi%20seu%20perfil%20no%20github)
