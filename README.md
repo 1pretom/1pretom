@@ -1,9 +1,9 @@
 ## Olá você! Eu sou o Washington Conceição, mas pode chamar de Wash 😁
 ### 🚀 Sobre mim
-Eu sou formado em administração transicionando minha carreira para desenvolvimento de software.
-Estou cursando Graduação em Análise e Desenvolvimento de Sistemas, pós-graduação em Análise e Desenvolvimento de Programas, ambos na Faculdade Digital Descomplica e um curso Full-Stack chamado Certified Tech Developer na Digital House.
-Vou aprendendo e postando as meus aprendizados e projetos aqui enquanto busco minha primeira oportunidade na carreira DEV.
-A propósito, sou apaixonado por tecnologia desde criança e sou a referência de toda a minha família quando esse é o assunto.
+- Eu sou formado em administração transicionando minha carreira para desenvolvimento de software.
+- Estou cursando Graduação em Análise e Desenvolvimento de Sistemas, pós-graduação em Análise e Desenvolvimento de Programas, ambos na Faculdade Digital Descomplica e um curso Full-Stack chamado Certified Tech Developer na Digital House.
+- Vou aprendendo e postando as meus aprendizados e projetos aqui enquanto busco minha primeira oportunidade na carreira DEV.
+- A propósito, sou apaixonado por tecnologia desde criança e sou a referência de toda a minha família quando esse é o assunto.
 
 
 
