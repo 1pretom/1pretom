@@ -13,6 +13,6 @@
 
 ![Washington's GitHub stats](https://github-readme-stats.vercel.app/api?username=1pretom&show_icons=true&theme=synthwave)
 
-    Tecnologias que mais utilizo
+### Tecnologias que mais utilizo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1pretom)](https://github.com/anuraghazra/github-readme-stats)
