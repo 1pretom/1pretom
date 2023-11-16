@@ -11,7 +11,7 @@
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:washingtonldamacenac@gmail.com?Subject=Ol%E1%20Washington%2C%20vi%20seu%20perfil%20no%20github)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/washingtonldamacenac/)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=1pretom)](https://git.io/streak-stats)
 
 ![Washington's GitHub stats](https://github-readme-stats.vercel.app/api?username=1pretom&show_icons=true&theme=synthwave)
 
