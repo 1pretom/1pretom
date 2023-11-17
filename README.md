@@ -1,6 +1,6 @@
 ## Olá você! Eu sou o Washington Conceição, mas pode chamar de Wash 😁
 ### 🚀 Sobre mim
-- Estagiário de Engenharia de Software Mobile na Sanar;
+- Estagiário de Engenharia de Software [Mobile](https://play.google.com/store/apps/details?id=br.com.sanarflix&hl=pt_BR&gl=US&pli=1) na [@Sanar](https://sanarflix.com.br/home/);
 - Estou cursando Graduação em Análise e Desenvolvimento de Sistemas, pós-graduação em Análise e Desenvolvimento de Programas, ambos na Faculdade Digital Descomplica e trilhando o Ignite na RocketSeat;
 - Formado como Certified Tech Developer na Digital House;
 - Graduado em administração;
