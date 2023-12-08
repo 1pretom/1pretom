@@ -1,12 +1,12 @@
-## Olá você! Eu sou o Washington Conceição, mas pode chamar de Wash 😁
-### 🚀 Sobre mim
-- Estagiário de Engenharia de Software [Mobile](https://play.google.com/store/apps/details?id=br.com.sanarflix&hl=pt_BR&gl=US&pli=1) na [@Sanar](https://sanarflix.com.br/home/);
-- No meu trabalho minhas stacks são React-Native, Typescript.
-- Estou cursando Graduação em Análise e Desenvolvimento de Sistemas, pós-graduação em Análise e Desenvolvimento de Programas, ambos na Faculdade Digital Descomplica e trilhando o Ignite na RocketSeat;
-- Formado como Certified Tech Developer na Digital House;
-- Graduado em administração;
-- Vou aprendendo e postando as meus aprendizados, estudos e projetos aqui;
-- Sou apaixonado por tecnologia desde criança e sou a referência de toda a minha família quando esse é o assunto.
+## Hello there! I'm Washington Conceição, but you can call me Wash 😁
+### 🚀 About me
+- Software Engineering [Mobile](https://play.google.com/store/apps/details?id=br.com.sanarflix&hl=pt_BR&gl=US&pli=1) Intern at [@Sanar](https://sanarflix.com.br/home/);
+- In my job, my stacks include React-Native and Typescript.
+- Currently pursuing a degree in Analysis and Systems Development, and a postgraduate degree in Analysis and Program Development, both at Faculdade Digital Descomplica. Also, advancing through Ignite at RocketSeat;
+- Certified Tech Developer graduate from Digital House;
+- Bachelor's degree in administration;
+- I continue to learn and share my learnings, studies, and projects here;
+- I've been passionate about technology since childhood and serve as the go-to person for tech in my family.
 
 
 
