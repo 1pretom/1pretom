@@ -16,7 +16,7 @@
 
 ### Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=1pretom)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user==1pretom)](https://git.io/streak-stats)
 ### Stats
 ![Washington's GitHub stats](https://github-readme-stats.vercel.app/api?username=1pretom&show_icons=true&theme=synthwave)
 
