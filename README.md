@@ -15,7 +15,6 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/washingtonldamacenac/)
 
 ### Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=1pretom)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=1pretom&theme=dark)](https://git.io/streak-stats)
 
 ### Stats
