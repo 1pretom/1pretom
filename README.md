@@ -2,7 +2,7 @@
 ### 🚀 About me
 - Software Engineering [Mobile](https://play.google.com/store/apps/details?id=br.com.sanarflix&hl=pt_BR&gl=US&pli=1) Intern at [@Sanar](https://sanarflix.com.br/home/);
 - In my job, for now my stacks include React-Native and Typescript.
-- Currently pursuing a degree in Analysis and Systems Development, and a postgraduate degree in Analysis and Program Development, both at Faculdade Digital Descomplica. Also, advancing through Ignite at RocketSeat;
+- Currently pursuing a degree in Analysis and Systems Development, at Faculdade Digital Descomplica. Also, advancing through Ignite at RocketSeat;
 - Certified Tech Developer graduate from Digital House;
 - Bachelor's degree in administration;
 - I continue to learn and share my learnings, studies, and projects here;
