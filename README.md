@@ -1,5 +1,5 @@
 ## Hi there! I'm Washington Conceição, but you can call me Washi ☺️
-### 🚀 About me
+### 🚀 About me:
 - Software Engineering [Mobile](https://play.google.com/store/apps/details?id=br.com.sanarflix&hl=pt_BR&gl=US&pli=1) Intern at [@Sanar](https://sanarflix.com.br/home/);
 - In my job, my stacks include React-Native and Typescript;
 - Currently pursuing a degree in Analysis and Systems Development, at Faculdade Digital Descomplica. Also, advancing through estudies at RocketSeat and developing some personal projects;
