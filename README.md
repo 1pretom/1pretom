@@ -15,8 +15,10 @@
 
 ### Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=1pretom&theme=onedark&hide_border=true&border_radius=5&locale=pt_BR&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&hide_total_contributions=true)](https://git.io/streak-stats)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=1pretom&theme=onedark&hide_border=true&border_radiusd=5&locale=pt_BR&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&type=png&hide_total_contributions=true)
-[GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1pretom&theme=onedark&hide_border=true&border_radius=5&locale=pt_BR&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&type=json&hide_total_contributions=true)
+
+[My streak in json](https://github-readme-streak-stats.herokuapp.com/?user=1pretom&theme=onedark&hide_border=true&border_radius=5&locale=pt_BR&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&type=json&hide_total_contributions=true)
 
 
 ### Stats
