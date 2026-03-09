@@ -1,12 +1,13 @@
 ## Hi there! I'm Washington Conceição, but you can call me Washi :)
 ### 🚀 About me:
-- Software Engineering [Mobile](https://play.google.com/store/apps/details?id=br.com.sanarflix&hl=pt_BR&gl=US&pli=1) Intern at [@Sanar](https://sanarflix.com.br/home/);
-- In my job, my stacks include React-Native and Typescript;
-- Currently pursuing a degree in Analysis and Systems Development, at Faculdade Digital Descomplica. Also, advancing through estudies at RocketSeat and developing some personal projects;
-- Certified Tech Developer graduate from Digital House;
-- Bachelor's degree in administration;
-- I continue to learn and share my learnings, studies, and projects here;
-- I've been passionate about technology since childhood and serve as the go-to person for tech in my family.
+- Software Engineer at [@Sanar](https://sanarflix.com.br/home/), working on the **Sanarflix web and mobile platforms**;
+- My daily stack includes **React, React Native, TypeScript and Node.js (BFF architecture)**;
+- I focus on building **scalable frontend applications and high-performance mobile experiences**;
+- Currently developing **personal products and mobile apps**, exploring ideas that can become real digital businesses;
+- Tech Developer graduate from **Digital House**;
+- Background in **Business Administration**, which helps me connect **technology with product and business strategy**;
+- Passionate about technology since childhood — the *family tech support* who turned that curiosity into a career;
+- I enjoy **learning, building side projects, and sharing my journey in tech**.
 
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:washingtonldamacenac@gmail.com?Subject=Ol%E1%20Washington%2C%20vi%20seu%20perfil%20no%20github)
