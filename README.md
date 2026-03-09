@@ -17,10 +17,11 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=1pretom&theme=onedark&hide_border=true&border_radius=5&locale=pt_BR&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&hide_total_contributions=true)](https://git.io/streak-stats)
 
 
+### 📊 Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1pretom&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true)
 
-### Stats
-![Washington's GitHub stats](https://github-readme-stats.vercel.app/api?username=1pretom&show_icons=true&theme=synthwave)
+### 💻 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1pretom&layout=compact&theme=synthwave)
 
-### Stacks
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1pretom)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight)
+### 📈 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=1pretom&theme=react-dark)
