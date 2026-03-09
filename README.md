@@ -1,4 +1,4 @@
-## Hi there! I'm Washington Conceição, but you can call me Washi :)
+## Hi there! I'm Washington Conceição, but you can call me Wash 👋
 ### 🚀 About me:
 - Software Engineer at [@Sanar](https://sanarflix.com.br/home/), working on the **Sanarflix web and mobile platforms**;
 - My daily stack includes **React, React Native, TypeScript and Node.js (BFF architecture)**;
